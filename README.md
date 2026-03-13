@@ -48,7 +48,7 @@ Submit multiple image prompts as a single batch job using Gemini's Batch API. Im
 ### Installation
 
 ```bash
-git clone https://github.com/boryskusmirek/gemini-mcp-server.git
+git clone https://github.com/Borys520/gemini-mcp-server.git
 cd gemini-mcp-server
 npm install --ignore-scripts
 npx tsc   # Build TypeScript
