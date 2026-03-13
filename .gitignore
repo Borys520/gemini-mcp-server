@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+
+# Bun binary lockfile (use text-based bun.lock instead)
+bun.lockb
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnpm-debug.log
+
+# Build output
+dist/
+build/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Reference Documentation
+docs/references/
+
+# Generated output
+gemini-output/
+
+# MCP Registry tokens
+.mcpregistry_*
